@@ -1,4 +1,4 @@
-package binarysearch;
+package binary_search;
 
 public class CeilTheFloor {
     public int[] getFloorAndCeil(int x, int[] arr) {

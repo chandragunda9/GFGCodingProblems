@@ -1,4 +1,4 @@
-package binarysearch;
+package binary_search;
 
 public class Floor {
     static int findFloor(long arr[], int n, long x) {

@@ -1,4 +1,4 @@
-package binarysearch;
+package binary_search;
 
 public class SquareRoot {
     long floorSqrt(long n) {

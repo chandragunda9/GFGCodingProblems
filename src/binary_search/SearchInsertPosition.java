@@ -1,4 +1,4 @@
-package binarysearch;
+package binary_search;
 
 public class SearchInsertPosition {
     static int searchInsertK(int Arr[], int N, int k) {

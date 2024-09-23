@@ -1,4 +1,4 @@
-package binarysearch;
+package binary_search;
 
 public class SmallestPositiveDivisor {
     static int f(int[] nums, int mid) {

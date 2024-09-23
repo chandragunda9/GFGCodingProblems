@@ -1,4 +1,4 @@
-package binarysearch;
+package binary_search;
 
 public class SearchInRotatedSortedArray {
     int search(int[] arr, int key) {

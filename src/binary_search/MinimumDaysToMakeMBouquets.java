@@ -1,4 +1,4 @@
-package binarysearch;
+package binary_search;
 
 public class MinimumDaysToMakeMBouquets {
     static int f(int[] nums, int mid, int k) {

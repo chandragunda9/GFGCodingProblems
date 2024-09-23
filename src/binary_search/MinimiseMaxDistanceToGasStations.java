@@ -1,4 +1,4 @@
-package binarysearch;
+package binary_search;
 
 import java.util.PriorityQueue;
 import java.util.Queue;

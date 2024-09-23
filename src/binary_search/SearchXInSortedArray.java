@@ -1,4 +1,4 @@
-package binarysearch;
+package binary_search;
 
 public class SearchXInSortedArray {
     public int binarysearch(int[] arr, int k) {

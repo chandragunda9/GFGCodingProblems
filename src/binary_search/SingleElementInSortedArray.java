@@ -1,4 +1,4 @@
-package binarysearch;
+package binary_search;
 
 public class SingleElementInSortedArray {
     public static int search(int n, int arr[]) {
